@@ -1,0 +1,13 @@
+Unique_Animal_Identifier,Local_Identifiers,Species,Strain_ILAR_Name,Strain_Short_Name,Sex,Transgenic,Genotype_Information,Allele_Information,Animal_Vendor,Date_of_Birth,Developmental_Stage,Animal_Weight_at_Start,Weight_Unit,Severity_Grade_of_Manipulation,In-life_Phase_Start_Date,In-life_Phase_End_Date,Test_Substance_Common_Name,Test_Substance_CAS_Number,Numerical_Dose,Dose_Unit,Vehicle_Composition,Route_of_Administration,Administration_Method,Testing_Location,Light_Cycle,Enrichment,Outcome_Measure,Value,Unit_of_Measurement
+ARS5788,16144-60861,Monkey,,,Female,No,-,-,,2025-Oct-11,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5799,888-8889,Rat,,,Female,No,-,-,,2021-Oct-01,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS9988,8884-60861,Monkey,,,Male,Yes,KO/KO,-,,2025-Nov-13,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5588,66644-60861,Turlte,,,Unkown,No,-,-,,2025-Oct-11,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5788,16144-60861,Monkey,,,Female,No,-,-,,2025-Oct-11,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5799,888-8889,Rat,,,Female,No,-,-,,2021-Oct-01,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS9988,8884-60861,Monkey,,,Male,Yes,KO/KO,-,,2025-Nov-13,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5588,66644-60861,Turlte,,,Unkown,No,-,-,,2025-Oct-11,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5788,16144-60861,Monkey,,,Female,No,-,-,,2025-Oct-11,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5799,888-8889,Rat,,,Female,No,-,-,,2021-Oct-01,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS9988,8884-60861,Monkey,,,Male,Yes,KO/KO,-,,2025-Nov-13,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm
+ARS5588,66644-60861,Turlte,,,Unkown,No,-,-,,2025-Oct-11,Adolescent,NA,g,0 - None,NA,NA,None,-,-,-,-,-,-,Roche Innovation Center Basel,12:12 LD,Yes,Center_Distance,xxx,cm

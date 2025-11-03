@@ -1,0 +1,9 @@
+.app-container { max-width: 800px; margin: auto; padding: 1rem; }
+header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+.controls input, .controls button { margin-left: 0.5rem; }
+.section { border: 1px solid #ccc; border-radius: 4px; margin-bottom: 1rem; }
+.section h2 { background: #f0f0f0; padding: 0.5rem; cursor: pointer; margin: 0; }
+.fields { padding: 0.5rem; }
+.field { margin-bottom: 0.5rem; }
+.field label { display: block; margin-bottom: 0.25rem; }
+.field input { width: 100%; padding: 0.25rem; box-sizing: border-box; }
