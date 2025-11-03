@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mnms-portal/static/css/main.885c3e85.css",
-    "main.js": "/mnms-portal/static/js/main.4c9473f2.js",
+    "main.js": "/mnms-portal/static/js/main.2b89cb3e.js",
     "index.html": "/mnms-portal/index.html",
     "main.885c3e85.css.map": "/mnms-portal/static/css/main.885c3e85.css.map",
-    "main.4c9473f2.js.map": "/mnms-portal/static/js/main.4c9473f2.js.map"
+    "main.2b89cb3e.js.map": "/mnms-portal/static/js/main.2b89cb3e.js.map"
   },
   "entrypoints": [
     "static/css/main.885c3e85.css",
-    "static/js/main.4c9473f2.js"
+    "static/js/main.2b89cb3e.js"
   ]
 }
