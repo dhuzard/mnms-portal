@@ -8,6 +8,9 @@ import * as XLSX from "xlsx";
 import { saveAs } from "file-saver";
 import "./App.css";
 
+// Background image URL for landing page (GitHub Pages friendly)
+const BG_IMAGE_URL = `${process.env.PUBLIC_URL}/MNMS_bcgnd.png?v=2`;
+
 // Define form sections and their fields
 const sections = [
   {
@@ -360,7 +363,7 @@ function App() {
         margin: '0 auto',
         boxSizing: 'border-box',
         background: subjects.length === 0
-          ? "url('/MNMS_bcgnd.png') center center / cover no-repeat"
+          ? `url(${BG_IMAGE_URL}) center center / cover no-repeat`
           : '#fff',
         padding: 24,
         display: 'flex',
