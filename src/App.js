@@ -389,9 +389,9 @@ function App() {
               Browse CSV/XLSX File
               <input id="file-upload" type="file" accept=".csv,.xlsx,.xls" onChange={handleFileImport} style={{display: 'none'}} />
             </label>
-            <button onClick={handleAddAnimal} style={{marginTop: 16, padding: '14px 32px', borderRadius: 10, background: '#2e7d32', color: '#fff', fontWeight: 600, fontSize: 18, border: 'none', cursor: 'pointer'}}>
+            {/* <button onClick={handleAddAnimal} style={{marginTop: 16, padding: '14px 32px', borderRadius: 10, background: '#2e7d32', color: '#fff', fontWeight: 600, fontSize: 18, border: 'none', cursor: 'pointer'}}>
               Add Animal
-            </button>
+            </button> */}
           </div>
         ) : (
           <div className="controls" style={{display: 'flex', gap: 16, marginBottom: 24}}>
