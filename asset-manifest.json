@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mnms-portal/static/css/main.885c3e85.css",
+    "main.js": "/mnms-portal/static/js/main.97b2002e.js",
+    "index.html": "/mnms-portal/index.html",
+    "main.885c3e85.css.map": "/mnms-portal/static/css/main.885c3e85.css.map",
+    "main.97b2002e.js.map": "/mnms-portal/static/js/main.97b2002e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.885c3e85.css",
+    "static/js/main.97b2002e.js"
+  ]
+}
